@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django, Tesnsorflow**
 
-- 📫 How to reach me **sahasoham8693@gmail.com**
+- 📫 How to reach me **sahasoham807@gmail.com**
 
 - 📄 Know about my experiences [https://sohamsahacv.tiiny.site/](https://sohamsahacv.tiiny.site/)
 
