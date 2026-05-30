@@ -30,7 +30,7 @@ AI Enthusiast • Web Developer • Exploring the Intersection of Education & Te
 - 💻 Passionate about AI, Web Development & Data Science  
 - 🌱 Currently learning **Django** and **TensorFlow**  
 - 📫 Reach me at: **sahasoham807@gmail.com**  
-- 📄 Resume / CV: [View Here](https://sohamsahacv.tiiny.site/)  
+- 📄 Resume / CV: [View Here](https://turquoise-jeni-27.tiiny.site/)  
 
 ---
 
