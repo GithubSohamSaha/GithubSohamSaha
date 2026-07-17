@@ -1,41 +1,26 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6C63FF,50:00C9FF,100:00E5A8&text=Soham%20Saha&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Science%20%7C%20Machine%20Learning%20%7C%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn"/>
+# 👋 Soham Saha
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=Data+Analyst+Intern+%40+Ozibook;Ex-AI+Prompt+Engineer+%40+SOUL+AI;AI+%7C+Machine+Learning+%7C+Data+Science;Computer+Vision+%7C+LLMs+%7C+Automation;Building+AI+for+Real-World+Impact"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6C63FF,50:00C9FF,100:00E5A8&text=Soham%20Saha&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20|%20Data%20Science%20|%20Machine%20Learning&descAlignY=58"/>
+</p>
 
-<br>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=Data+Analyst+Intern+%40+Ozibook;Ex-AI+Prompt+Engineer+%40+SOUL+AI;AI+%7C+Machine+Learning+%7C+Computer+Vision;Building+AI+for+Real-World+Impact"/>
+</p>
 
-<a href="mailto:sahasoham807@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p align="center">
+<a href="mailto:sahasoham807@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/soham-saha-74594721b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://github.com/GithubSohamSaha"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://www.kaggle.com/sohamthecoder007"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+</p>
 
-<a href="https://linkedin.com/in/soham-saha-74594721b">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/GithubSohamSaha">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.kaggle.com/sohamthecoder007">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<br><br>
-
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=GithubSohamSaha&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
+</p>
 
-</div>
-
----
-
-# 👨‍💻 About Me
-
+## 🚀 About Me
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 ### 🚀 Building AI systems that solve real-world problems.
@@ -50,486 +35,186 @@ I love transforming research ideas into practical software that creates measurab
 
 <br>
 
-- 🔭 Currently building **FinLLM-IN**, AI Analytics Systems & Automation Projects
-- 🤖 Interested in **LLMs, Deep Learning, Agentic AI, Computer Vision & Data Science**
-- 🌱 Currently learning **RAG, MLOps, Cloud Deployment & Advanced Deep Learning**
-- 💬 Ask me about **Python, Machine Learning, React, FastAPI, SQL, Git & Data Analytics**
-- 🤝 Open to **Research Collaborations**, **Open Source**, and **AI Projects**
-- ⚡ Fun fact: *I enjoy debugging complex AI systems more than solving easy coding problems.*
+- 🎓 B.Tech CSE, University of Calcutta
+- 💼 Data Analyst Intern @ **Ozibook**
+- 🤖 Ex-AI Prompt Engineer @ **SOUL AI**
+- 🔬 Building **FinLLM-IN**, AI Analytics, Computer Vision & Automation
+- 🌱 Learning **RAG, Agentic AI, MLOps, Cloud**
+- 🤝 Open to AI Research, Open Source & Collaboration
 
 ---
 
-# 💼 Professional Snapshot
+## 💼 Experience
 
-<div align="center">
-
-| 🎓 Education | 💼 Experience | 🔬 Research |
-|:-----------:|:------------:|:-----------:|
-| B.Tech CSE<br>University of Calcutta | Data Analyst Intern<br>Ozibook | FinLLM-IN |
-| B.Sc Computer Science | Ex AI Prompt Engineer<br>SOUL AI | Healthcare AI |
-
-</div>
+| Role | Organization |
+|------|--------------|
+| Data Analyst Intern | Ozibook |
+| AI Prompt Engineer | SOUL AI |
+| B.Tech CSE | University of Calcutta |
 
 ---
 
-# 🛠 Tech Arsenal
+## 🚀 Featured Projects
 
-## 💻 Programming Languages
+| Project | Description |
+|---------|-------------|
+| 💹 FinLLM-IN | Financial Intelligence Platform using LLMs & Deep Learning |
+| 🏥 MedAI Guardian | Healthcare AI for prediction & analytics |
+| 👁️ People Detection | YOLOv8 Computer Vision |
+| 📚 StudyHub Publication | MERN publication platform |
+| 📈 NIFTY Benchmark | Deep Learning forecasting models |
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,php&theme=dark"/>
+---
+
+## 🛠 Tech Stack
+
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,php"/>
 </p>
 
----
-
-## 🌐 Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,vite&theme=dark"/>
-</p>
-
----
-
-## ⚙ Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django&theme=dark"/>
-</p>
-
----
-
-## 🧠 AI • Machine Learning • Data Science
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
+### AI & Data
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
+</p>
 
-<img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge"/>
+### Web
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,html,css,bootstrap"/>
+</p>
 
+### Databases & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vercel,render,gcp"/>
 </p>
 
 ---
 
-## 🗄 Databases
+## 📊 GitHub Analytics
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark"/>
-
+<img width="48%" src="https://github-readme-stats.shion.dev/api?username=GithubSohamSaha&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://streak-stats.demolab.com/?user=GithubSohamSaha&theme=tokyonight"/>
 </p>
 
 ---
 
-## ☁ Cloud & DevOps
+# 📈 GitHub Activity Graph
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vercel,render,gcp&theme=dark"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GithubSohamSaha&theme=tokyo-night&hide_border=true"/>
 </p>
-
----
-
-## 📈 Currently Exploring
-
-<div align="center">
-
-| AI | Data | Cloud |
-|:----:|:-----:|:------:|
-| 🤖 Agentic AI | 📊 Advanced Analytics | ☁ Google Cloud |
-| 🧠 Large Language Models | 📈 Time Series Forecasting | 🚀 Deployment |
-| 🔍 RAG Systems | 💹 Financial AI | ⚙ MLOps |
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Philosophy
-
-> **"Technology creates the greatest impact when it solves real-world problems."**
-
-</div>
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-<h3>Turning ideas into impactful AI-powered solutions.</h3>
-
-</div>
-
-<br>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## 💹 FinLLM-IN
-
-**AI-powered Financial Intelligence Platform for Indian Markets**
-
-A research-driven platform integrating Deep Learning, Reinforcement Learning, Large Language Models, and Financial Analytics for intelligent investment decision-making.
-
-### ⚡ Highlights
-
-- 📈 Stock Price Forecasting
-- 🤖 Financial LLM
-- 📊 Portfolio Optimization
-- 📉 Risk Analysis
-- 📰 Financial News Intelligence
-- 🇮🇳 India-focused Market Analytics
-
-### 🛠 Tech Stack
-
-`Python`
-`FastAPI`
-`PostgreSQL`
-`TensorFlow`
-`PyTorch`
-`xLSTM`
-`TFT`
-`RAG`
-`LLMs`
-
-<a href="#">
-<img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🏥 MedAI Guardian
-
-**AI-powered Healthcare Intelligence Platform**
-
-A smart healthcare system capable of predicting medicine demand, patient flow, outbreak detection, and hospital resource optimization.
-
-### ⚡ Highlights
-
-- 🧠 Medicine Demand Prediction
-- 🏥 Bed Occupancy Forecasting
-- 📊 Disease Trend Analysis
-- 🚑 Healthcare Dashboard
-- 🤖 AI-powered Decision Support
-
-### 🛠 Tech Stack
-
-`Python`
-`FastAPI`
-`LSTM`
-`XGBoost`
-`PostgreSQL`
-`React`
-
-<a href="#">
-<img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 👁️ AI People Detection
-
-YOLOv8-based Computer Vision System capable of accurate people detection in real-world environments.
-
-### Highlights
-
-- 🎯 YOLOv8
-- 📷 Computer Vision
-- ⚡ Real-time Detection
-- 🧠 CNN
-
-### Tech
-
-`Python`
-`YOLOv8`
-`OpenCV`
-`PyTorch`
-
-<a href="#">
-<img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 📚 StudyHub Publication
-
-A complete publication management platform with role-based authentication, dashboard, payments, order management, and admin portal.
-
-### Highlights
-
-- 📖 Book Publishing
-- 🔐 JWT Authentication
-- 👨‍💼 Admin Dashboard
-- 📦 Order Management
-
-### Tech
-
-`React`
-
-`Node.js`
-
-`Express`
-
-`JWT`
-
-`MongoDB`
-
-<a href="#">
-<img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 💼 Experience
-
-```mermaid
-timeline
-
-title Professional Journey
-
-2024
-: AI Prompt Engineer
-: SOUL AI
-
-2025
-: AI Research
-: Computer Vision Projects
-
-2026
-: Data Analyst Intern @ Ozibook
-
-2026
-: FinLLM-IN Research
-
-2026
-: Healthcare AI
-```
-
----
-
-# 🔬 Research Interests
-
-<div align="center">
-
-| 🤖 AI | 📊 Data Science | 💻 Software |
-|:---:|:---:|:---:|
-| Machine Learning | Data Analytics | Full Stack Development |
-| Deep Learning | Time Series Forecasting | REST APIs |
-| Large Language Models | Financial AI | Cloud Deployment |
-| Agentic AI | Predictive Analytics | Scalable Systems |
-| Computer Vision | Data Engineering | System Design |
-
-</div>
 
 ---
 
 # 🏆 Achievements
 
-<table>
-
-<tr>
-
-<td>
-
-### 💼 Internship
-
-**Data Analyst Intern**
-
-Ozibook
-
-</td>
-
-<td>
-
-### 🤖 AI Experience
-
-**Prompt Engineer**
-
-SOUL AI
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-### 🔬 Research
-
-FinLLM-IN
-
-Healthcare AI
-
-Deep Learning
-
-</td>
-
-<td>
-
-### 🎤 Technical Activities
-
-IEEE Seminars
-
-Hackathons
-
-Workshops
-
-Open Source
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 📜 Certifications & Learning
-
-> 📚 Lifelong learner passionate about continuously expanding my knowledge.
-
-- 🎓 Google Professional Courses
-- ☁ Google Cloud Skills
-- 🤖 Machine Learning Specializations
-- 🧠 Deep Learning Courses
-- 📊 Data Science Certifications
-- 💻 Python & Full Stack Development
-
----
-
-# 🎯 Currently Working On
-
 <div align="center">
 
-| 🚀 Project | Status |
-|:---------|:------:|
-| 💹 FinLLM-IN | 🟢 Active |
-| 🏥 MedAI Guardian | 🟢 Active |
-| 📚 StudyHub Publication | 🟢 Active |
-| 📈 NIFTY Deep Learning Benchmark | 🟢 Active |
-| 🤖 AI Automation Tools | 🟢 Active |
+| 💼 Professional | 🚀 Projects | 🎓 Learning |
+|:---------------:|:----------:|:-----------:|
+| 📊 Data Analyst Intern @ Ozibook | 💹 FinLLM-IN | 🎓 B.Tech CSE |
+| 🤖 Ex AI Prompt Engineer @ SOUL AI | 🏥 MedAI Guardian | 📚 Continuous Learning |
+| 🤝 Open Source Contributor | 👁️ YOLOv8 People Detection | ☁️ AI • ML • Cloud |
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# 🔬 Research Interests
 
-<div align="center">
+<p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GithubSohamSaha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-blue?style=for-the-badge"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=GithubSohamSaha&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakNum=FFFFFF"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge"/>
 
-<br><br>
+<img src="https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge"/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GithubSohamSaha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-success?style=for-the-badge"/>
 
-<img width="58%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GithubSohamSaha&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/Financial%20AI-purple?style=for-the-badge"/>
 
-</div>
+<img src="https://img.shields.io/badge/Data%20Science-0A66C2?style=for-the-badge"/>
 
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=GithubSohamSaha&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF"/>
-
-</div>
+</p>
 
 ---
 
-# 🏆 GitHub Achievements
+# 📚 Currently Exploring
 
-<div align="center">
+```text
+🧠 Large Language Models (LLMs)
 
-<img src="https://github-profile-trophy.vercel.app/?username=GithubSohamSaha&theme=tokyonight&no-frame=true&row=2&column=4"/>
+🤖 Agentic AI
 
-</div>
+🔍 Retrieval-Augmented Generation (RAG)
+
+📊 Time Series Forecasting
+
+📈 Financial AI
+
+⚙️ MLOps
+
+☁️ Google Cloud
+
+🚀 Distributed AI Systems
+```
 
 ---
 
-# 🐍 Contribution Snake
+# 📈 Current Focus
 
-<div align="center">
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/GithubSohamSaha/GithubSohamSaha/output/github-contribution-grid-snake-dark.svg"/>
-
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/GithubSohamSaha/GithubSohamSaha/output/github-contribution-grid-snake.svg"/>
-
-<img alt="snake animation"
-src="https://raw.githubusercontent.com/GithubSohamSaha/GithubSohamSaha/output/github-contribution-grid-snake-dark.svg"/>
-
-</picture>
-
-</div>
+```mermaid
+mindmap
+  root((Soham))
+    AI
+      LLMs
+      Deep Learning
+      Computer Vision
+    Data Science
+      Analytics
+      Forecasting
+    Software
+      React
+      FastAPI
+      Node.js
+    Research
+      FinLLM-IN
+      Healthcare AI
+```
 
 ---
 
 # 🌍 Coding Profiles
 
-<div align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+<p align="center">
 
 <a href="https://www.kaggle.com/sohamthecoder007">
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
 <a href="https://stackoverflow.com/users/23111757">
-<img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
 </a>
 
 <a href="https://quora.com/profile/Soham-Saha-223">
 <img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 ---
 
-# 📫 Connect With Me
+# 📫 Let's Connect
 
-<div align="center">
+<p align="center">
 
 <a href="mailto:sahasoham807@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -543,44 +228,38 @@ src="https://raw.githubusercontent.com/GithubSohamSaha/GithubSohamSaha/output/gi
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.kaggle.com/sohamthecoder007">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
-
 <a href="YOUR_RESUME_LINK">
 <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 
-</div>
-
----
-
-# 💬 Quote I Live By
-
-<div align="center">
-
-> ### *"Build solutions that create value—not just software that runs."*
-
-</div>
-
----
-
-# ⚡ Fun Facts
-
-- 🤖 I enjoy building AI systems more than solving isolated coding problems.
-- 📈 Financial AI and Time-Series Forecasting fascinate me.
-- 👁️ Computer Vision is one of my favorite AI domains.
-- 📚 I love learning by building real-world projects.
-- 🌱 Every project teaches something new.
+</p>
 
 ---
 
 <div align="center">
+
+## 💡 Quote
+
+> **"Building AI that creates real-world impact through research, innovation, and engineering."**
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+GitHub!;Let's+build+something+amazing+together.;Always+Learning+%7C+Always+Building"/>
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6C63FF,50:00C9FF,100:00E5A8"/>
 
-### ⭐ Thanks for visiting my profile!
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1500&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+AI+for+Real-World+Impact;Always+Learning+%7C+Always+Building;Let's+Connect+and+Create+Something+Amazing!"/>
-
 </div>
+
+---
+
+## 📫 Connect
+
+- LinkedIn: https://linkedin.com/in/soham-saha-74594721b
+- Email: sahasoham807@gmail.com
+- Kaggle: https://www.kaggle.com/sohamthecoder007
+
+---
+
+> **"Building AI that creates real-world impact."**
