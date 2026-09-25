@@ -49,6 +49,7 @@ I love transforming research ideas into practical software that creates measurab
 
 | Role | Organization |
 |------|--------------|
+| ML Intern | Variable Energy Cyclotorn Center (VECC), Kolkata |
 | Data Analyst Intern | Ozibook |
 | AI Prompt Engineer | SOUL AI |
 | B.Tech CSE | University of Calcutta |
