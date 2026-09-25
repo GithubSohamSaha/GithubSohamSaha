@@ -36,7 +36,8 @@ I love transforming research ideas into practical software that creates measurab
 <br>
 
 - 🎓 B.Tech CSE, University of Calcutta
-- 💼 Data Analyst Intern @ **Ozibook**
+- 🔬 Ex-ML Intern @ **Variable Energy Cyclotorn Center (VECC), Kolkata**
+- 💼 Ex-Data Analyst Intern @ **Ozibook**
 - 🤖 Ex-AI Prompt Engineer @ **SOUL AI**
 - 🔬 Building **FinLLM-IN**, AI Analytics, Computer Vision & Automation
 - 🌱 Learning **RAG, Agentic AI, MLOps, Cloud**
